@@ -23,7 +23,7 @@ loginForm.addEventListener('submit', (e) => {
             window.location.href = 'admin-dashboard.html';
         } else if (role === 'user') {
             // User login successful, redirect to user dashboard
-            window.location.href = 'user-dashboard.html';
+            window.location.href = 'index.html';
         } else if (role === 'recycler') {
             // Moderator login successful, redirect to moderator dashboard
             window.location.href = 'recycler-dashboard.html';
