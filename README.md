@@ -3,6 +3,8 @@ E-Waste Management Website
 
 The E-Waste Management Website is a comprehensive platform that addresses the growing issue of electronic waste (e-waste) by providing a centralized system for managing the collection, recycling, and disposal of e-waste.
 
+System run config :- """run main.html"""
+
  Key Features
 
 1. Recycler Directory: The website features a detailed directory of authorized e-waste recyclers, including their location, name, contact information, and other relevant details. This allows users to easily identify and connect with the nearest recycling facilities.
