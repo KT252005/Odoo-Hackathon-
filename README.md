@@ -1,5 +1,5 @@
 E-Waste Management Website
-E-Waste Management Website
+
 
 The E-Waste Management Website is a comprehensive platform that addresses the growing issue of electronic waste (e-waste) by providing a centralized system for managing the collection, recycling, and disposal of e-waste.
 
